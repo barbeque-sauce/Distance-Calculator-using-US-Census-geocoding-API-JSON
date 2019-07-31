@@ -3,3 +3,6 @@ A python program that uses the US Census geocoding API to extract the latitude a
 White House and the entered address and compute the distance between them in miles.
 
 ![Alt Text](https://github.com/barbeque-sauce/Distance-Calculator-using-US-Census-geocoding-API-JSON/blob/master/dist.png)
+
+## Usage 
+* Run the python script, and enjoy!
